@@ -1,1 +1,19 @@
-
+<xml>
+  <Summary>"Application isn't closed when press Alt-F4"</Summary>
+  <Project>"Keyboard functionality"</Project>
+  <Component>"Functionality of combinations on the keyboard"</Component>
+  <Version>"1.0"</Version>
+  <Severity>"S3"</Severity>
+  <Priority>"P2"</Priority>
+  <Status>"New"</Status>
+  <Author>Gavrilenko Sergey"</Author>
+  <Assigned_To>"Myself"</Assigned_To>
+  <Description>"Brand:Razer, Series:Huntsman V2 Analog,Item model number:RZ03-03610200-R3U1, Version:1.0, Date:Ferbruary 9, 2021"</Description>
+  <Steps_to_Reproduce>
+    <1>"Connect the keyboard via usb to the computer"</1> 
+    <2>"Open any application on your computer"</2> 
+    <3>"Press combination alt+f4."}</3>
+  </Steps_to_Reproduce>
+  <Result>"Nothing happened"</Result>
+  <Expected_Result>"Application closing"</Expected_Result>  
+  <Attachment>"-"</Attachment>
