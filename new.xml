@@ -1,6 +1,7 @@
 <xml>
-	<Name>"Sergey"</Name>
-	<Surname>"Gavrilenko"</Surname>
-	<Age>"27"</Age>
-	<Pets>"Cat"</Pets>
-	<Future_salary>"3000 $"</Future_salary>
+	<Name>Sergey</Name>
+	<Surname>Gavrilenko</Surname>
+	<Age>27</Age>
+	<Pets>Cat</Pets>
+	<Future_salary>3000$</Future_salary>
+</xml>
